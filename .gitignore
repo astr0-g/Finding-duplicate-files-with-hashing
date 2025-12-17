@@ -1,0 +1,9 @@
+*.o
+*.out
+main
+*.exe
+
+*.dSYM/
+
+.vscode/
+.idea/
